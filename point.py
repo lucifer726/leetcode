@@ -48,7 +48,7 @@ class Point(object):
 
 
 def main():
-    p1 = Point(3, 5)
+    p1 = Point(3, 4)
     p2 = Point()
     print(p1)
     print(p2)
